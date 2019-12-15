@@ -1,6 +1,8 @@
 package gun0912.tedbottompicker;
 
 
+import androidx.fragment.app.FragmentActivity;
+
 public class TedBottomPicker extends TedBottomSheetDialogFragment {
 
     public static Builder with(FragmentActivity fragmentActivity) {

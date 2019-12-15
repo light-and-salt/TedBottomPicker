@@ -1,7 +1,8 @@
 package gun0912.tedbottompicker;
 
 import android.graphics.Rect;
-import androidx.appcompat.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
+
 import android.view.View;
 
 /**
